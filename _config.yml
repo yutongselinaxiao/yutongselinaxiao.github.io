@@ -24,9 +24,9 @@ repository               : "yutongselinaxiao/yutongselinaxiao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Selina Yutong Xiao"
+  name             : "Selina Yutong Xiao 肖雨彤"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "尽人事听天命"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL
@@ -224,6 +224,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   # publications:
   #   output: true
   #   permalink: /:collection/:path/
@@ -259,6 +262,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true

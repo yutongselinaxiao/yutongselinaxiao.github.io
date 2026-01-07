@@ -335,6 +335,35 @@ def parse_teaching(teaching_dir):
     
     return teaching
 
+def parse_research(research_dir):
+    """Parse research from the _research directory."""
+    research = []
+    
+    if not os.path.exists(research_dir):
+        return research
+    
+    for research_file in sorted(glob.glob(os.path.join(research_dir, "*.md"))):
+        with open(research_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+            # Extract research details
+            research_entry = {
+                "name": front_matter.get('title', ''),
+                "institution": front_matter.get('venue', ''),
+                "date": front_matter.get('date', ''),
+                "role": front_matter.get('type', ''),
+                "description": front_matter.get('excerpt', '')
+            }
+            
+            research.append(research_entry)
+    
+    return research
+
 def parse_portfolio(portfolio_dir):
     """Parse portfolio items from the _portfolio directory."""
     portfolio = []
@@ -397,6 +426,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+    
+    # Add research
+    cv_json["research"] = parse_research(os.path.join(repo_root, "_research"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:
