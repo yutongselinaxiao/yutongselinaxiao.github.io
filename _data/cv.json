@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Selina Yutong Xiao",
+    "email": "xiaoyuto@usc.edu",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": ""
     },
@@ -33,30 +33,21 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Southern California",
+      "area": "Ph.D in Industrial and Systems Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2025",
+      "endDate": "",
+      "gpa": 4.0,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Cornell University",
+      "area": "B.S. in Computer Science, B.S. in Operations Research and Information Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": 3.97,
       "courses": []
     }
   ],

@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial and Systems Engineering, University of Southern California, 2030 (expected)
+* B.S. in Computer Science, B.S. in Operations Research and Information Engineering, Cornell University, 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 - now: Research Assistant
+  * University of Southern California
+  * Research Topic: Research on online adaptive ADMM using hypergradient methods for large-scale constrained optimization.
+  * Supervisor: Professor Meisam Razavaiyayn
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023 - Spring 2025: Undergraduate Researcher
+  * Cornell University
+  * Research Topic: Developed integer programming models for large-scale exam scheduling with fairness and conflict-reduction objectives.
+  * Supervisor: Professor David Shmoys
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024 - Fall 2024: Undergraduate Researcher
+  * Cornell University
+  * Research Topic: Built data pipelines and training workflows for large-scale vision–language modeling on multimodal satellite image datasets.
+  * Supervisor: Professor Kavita Bala, Professor Bharath Hariharan
+
+* Spring 2021 - Spring 2024: Undergraduate Researcher
+  * Cornell University
+  * Research Topic: Developed Nvidia Omniverse UI and machine learning pipelines for sketch-to-3D reconstruction using generative models and geometric representations. 
+  * Supervisor: Professor Donald P. Greenberg
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages and Tools
+  * Python, Java, MATLAB, C, SQL
+* Machine Learning Packages
+  * PyTorch, Jax, Numpy, Pandas
+* Optimization and Machine Learning Theory
 
 Publications
 ======
