@@ -23,10 +23,10 @@ noindex: true
 - coexist peacefully
 
 ## My Responsibility
-- Try to make their responsibility easier to achieve
+- Make their responsibility easier to achieve
 
 ## Sponsorship
-Many appreciation to my parents taking care of them when I'm not home.
+Many thanks to my parents for taking such good care of them when I’m not home.
 
 
 ← [Back to CV](/cv/)
