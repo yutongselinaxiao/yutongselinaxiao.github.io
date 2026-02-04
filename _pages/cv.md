@@ -16,21 +16,6 @@ Education
 
 Research experience
 ======
-* Fall 2025 - now: Research Assistant, University of Southern California
-  * Research Topic: Research on online adaptive ADMM using hypergradient methods for large-scale constrained optimization.
-  * Supervisor: Professor Meisam Razavaiyayn
-
-* Fall 2023 - Spring 2025: Undergraduate Researcher, Cornell University
-  * Research Topic: Developed integer programming models for large-scale exam scheduling with fairness and conflict-reduction objectives.
-  * Supervisor: Professor David Shmoys
-
-* Summer 2024 - Fall 2024: Undergraduate Researcher, Cornell University
-  * Research Topic: Built data pipelines and training workflows for large-scale vision–language modeling on multimodal satellite image datasets.
-  * Supervisor: Professor Kavita Bala, Professor Bharath Hariharan
-
-* Spring 2021 - Spring 2024: Undergraduate Researcher, Cornell University
-  * Research Topic: Developed Nvidia Omniverse UI and machine learning pipelines for sketch-to-3D reconstruction using generative models and geometric representations. 
-  * Supervisor: Professor Donald P. Greenberg
 <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -51,7 +36,8 @@ Skills
 
 Service and leadership
 ======
-* Volunteer at Los Angeles Animal Service
+* Volunteer at Los Angeles Animal Services
+* [Leader of Cat co.](/mycats/)
 
 <!-- Publications
 ======

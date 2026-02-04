@@ -7,7 +7,7 @@ venue: "Cornell University"
 date: 2022-09-01
 location: "Ithaca, NY"
 excerpt: >
-  Designed an NVIDIA Omniverse extension for architectural visualization, integrating machine learning pipelines that translate blueprints and hand-drawn sketches into ML-generated 3D geometry within professional graphics workflows.
+  Designed an NVIDIA Omniverse extension for architectural visualization, integrating machine learning pipelines that translate blueprints and hand-drawn sketches into ML-generated 3D geometry within professional graphics workflows. Led by Professor Donald P. Greenberg. 
 ---
 
 - Engineered NVIDIA Omniverse–Photoshop extensions for architectural visualization. ([The Digital Twin Idea](https://blogs.nvidia.com/blog/greenberg-siggraph-omniverse/))

@@ -7,7 +7,7 @@ venue: "University of Southern California, ISE"
 date: 2025-08-25
 location: "Los Angeles, CA"
 excerpt: >
-  Proposed an online adaptive ADMM framework that updates penalty parameters via exact hypergradients, enabling stable and fast convergence for large-scale constrained machine learning and optimization problems.
+  Proposed an online adaptive ADMM framework that updates penalty parameters via exact hypergradients, enabling stable and fast convergence for large-scale constrained machine learning and optimization problems. Led by Professor Meisam Razavaiyayn
 ---
 
 - Designed a novel online adaptive ADMM framework using exact hypergradients to update penalty parameters (ρ).

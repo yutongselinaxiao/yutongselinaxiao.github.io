@@ -7,7 +7,7 @@ venue: "Cornell University"
 date: 2023-08-01
 location: "Ithaca, NY"
 excerpt: >
-  Leader of the Prelim Scheduling subteam for the [Cornell Scheduling Team](https://cornellschedulingteam.com/) using integer programming, incorporating fairness constraints and ML-assisted enrollment predictions.
+  Leader of the Prelim Scheduling subteam for the [Cornell Scheduling Team](https://cornellschedulingteam.com/) using integer programming, incorporating fairness constraints and ML-assisted enrollment predictions. Led by Professor David Shmoys. 
 ---
 
 - Leader of the Prelim Scheduling subteam for [Cornell Scheduling Team](https://cornellschedulingteam.com/) using integer programming.
