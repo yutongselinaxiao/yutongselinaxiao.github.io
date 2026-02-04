@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Sketch-to-3D Geometry Generation"
+title: "Sketch-in-Context Nvidia Omniverse Extension"
 collection: research
 type: "Independent Study"
 permalink: /research/computer-graphics-ml
@@ -8,8 +8,7 @@ date: 2022-09-01
 location: "Ithaca, NY"
 ---
 
-- Built machine learning pipelines combining CNNs, VAEs, and GANs.
-- Translated hand-drawn sketches into 3D signed-distance field representations.
-- Generated mesh geometry from learned implicit representations.
-- Engineered NVIDIA Omniverse–Photoshop extensions for architectural visualization.
+- Engineered NVIDIA Omniverse–Photoshop extensions for architectural visualization. ([The Digital Twin Idea](https://blogs.nvidia.com/blog/greenberg-siggraph-omniverse/))
+- Built machine learning pipelines combining GANs and CNN to map design blueprint to hand-drawn sketches.
+- Translated hand-drawn sketches into 3D signed-distance field representations using CNN and VAE.
 - Streamlined design workflows by integrating ML-generated geometry into graphics tools.

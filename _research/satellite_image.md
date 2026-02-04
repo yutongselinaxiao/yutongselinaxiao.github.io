@@ -13,4 +13,3 @@ location: "Ithaca, NY"
 - Curated and aligned over one million internet–satellite image pairs.
 - Enabled large-scale training of geospatial vision–language models.
 - Implemented distributed captioning and model pretraining with DeepSpeed.
-- Improved training throughput and GPU memory efficiency for large-batch workloads.
