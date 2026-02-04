@@ -4,8 +4,10 @@ collection: research
 type: "Applied Optimization Project"
 permalink: /research/cornell-exam-scheduling
 venue: "Cornell University"
-date: 2023-06-01
+date: 2023-08-01
 location: "Ithaca, NY"
+excerpt: >
+  Leader of the Prelim Scheduling subteam for the [Cornell Scheduling Team](https://cornellschedulingteam.com/) using integer programming, incorporating fairness constraints and ML-assisted enrollment predictions.
 ---
 
 - Leader of the Prelim Scheduling subteam for [Cornell Scheduling Team](https://cornellschedulingteam.com/) using integer programming.

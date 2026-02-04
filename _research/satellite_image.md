@@ -6,6 +6,8 @@ permalink: /research/vision-language-modeling
 venue: "Cornell University, CIS (BURE)"
 date: 2024-01-01
 location: "Ithaca, NY"
+excerpt: >
+  Built large-scale geospatial vision–language datasets by generating detailed captions from internet imagery using LLaVA-1.5 and LLaMA-3, enabling distributed training of multimodal models with over one million aligned image pairs.
 ---
 
 - Developed automated data-generation pipelines using LLaVA-1.5 and LLaMA-3.
